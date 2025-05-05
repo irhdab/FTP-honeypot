@@ -7,9 +7,6 @@ An FTP Honeypot designed to simulate an FTP server and log unauthorized access a
 Simulates an FTP server to attract unauthorized access.
 Logs attack details such as IP address, port, geolocation (city, region, country), and commands.
 Sends fake FTP server responses to simulate real behavior.
-Interactive mode for detailed logging of commands.
-Multi-threaded to handle multiple connections simultaneously.
-Graceful shutdown using signal handling.
 
 ## Requirements
 Python 3.x
@@ -48,4 +45,4 @@ Contributions are welcome! Feel free to open issues or submit pull requests to i
 ### License
 
 This project is licensed under the MIT License.
-this repo is forked from [Daepa](https://github.com/suspiciousdaepa/simple-FTP-honeypot)
+**this repo is forked from [Daepa](https://github.com/suspiciousdaepa/simple-FTP-honeypot)**
