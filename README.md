@@ -48,4 +48,4 @@ Contributions are welcome! Feel free to open issues or submit pull requests to i
 ### License
 
 This project is licensed under the MIT License.
-this repo is forked from (Daepa)[https://github.com/suspiciousdaepa/simple-FTP-honeypot]
+this repo is forked from [Daepa](https://github.com/suspiciousdaepa/simple-FTP-honeypot)
